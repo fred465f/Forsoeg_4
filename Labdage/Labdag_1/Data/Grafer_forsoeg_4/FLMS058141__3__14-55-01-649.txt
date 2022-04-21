@@ -1,5 +1,4 @@
 Data from FLMS058141__3__14-55-01-649.txt Node
-
 Date: Thu Apr 21 14:55:01 CEST 2022
 User: jeppe
 Spectrometer: FLMS05814
