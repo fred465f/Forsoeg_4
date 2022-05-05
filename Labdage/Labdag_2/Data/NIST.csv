@@ -1,4 +1,4 @@
-Atom,Obs. wavelength (nm),NIST wavelength (nm),$E_g (cm^{-1})$,$E_e (cm^{-1})$
+Atom,Obs. wavelength (nm),NIST wavelength (nm),$E_i (cm^{-1})$,$E_k (cm^{-1})$
 Ar,358.262,360.652,93750.598,121470.238
 Ar,697.623,696.543,93143.760,107496.417
 Ar,764.453,763.511,93143.760,106237.552
