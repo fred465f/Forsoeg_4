@@ -1,0 +1,42 @@
+RETTELSER TIL AFSNIT 4:
+
+Elements found via spectroscopy include:
+	H --------------> Ca^+
+	G --------------> Fe and/or Ca
+	F --------------> H_beta of the Balmer series
+	b --------------> Mg and/or Fe
+	D_1, D_2, D_3 --> Na and/or He
+	C --------------> H_alpha of the Balmer series
+	B --------------> O_2
+	A --------------> O_2
+
+
+Which formula (Sec. 4.1) - theoretical one or one actually used?
+
+CORRECTED TEMP. OF SUN FROM
+	T = 5657.771 +/- 22.093 K
+TO
+	T = 5660 +/- 22 K	
+Reason: Rounding lambda_max (Due to +/- 2 nm being actual uncertainty) and retrying calculation
+
+ELECTRONIC STATES (Sec. 4.2)
+Ne
+NIST WL, CONF_I, CONF_F
+585.249, 2s^2 2p^5 (^2 P°_{1/2}) 3s, 2s^2 2p^5 (^2 P°_{1/2}) 3p
+616.359, 2s^2 2p^5 (^2 P°_{1/2}) 3s, 2s^2 2p^5 (^2 P°_{1/2}) 3p
+640.225, 2s^2 2p^5 (^2 P°_{3/2}) 3s, 2s^2 2p^5 (^2 P°_{3/2}) 3p
+724.517, 2s^2 2p^5 (^2 P°_{3/2}) 3s, 2s^2 2p^5 (^2 P°_{3/2}) 3p
+Ar
+NIST WL, CONF_I, CONF_F
+360.652, 3s^2 3p^5 (^2 P°_{3/2}) 4s, 3s^2 3p^5 (^2 P°_{3/2}) 6p
+696.543, 3s^2 3p^5 (^2 P°_{3/2}) 4s, 3s^2 3p^5 (^2 P°_{1/2}) 4p
+763.511, 3s^2 3p^5 (^2 P°_{3/2}) 4s, 3s^2 3p^5 (^2 P°_{3/2}) 4p
+811.531, 3s^2 3p^5 (^2 P°_{3/2}) 4s, 3s^2 3p^5 (^2 P°_{3/2}) 4p
+Xe
+NIST WL, CONF_I, CONF_F
+467.123, 5p^5 (^2 P°_{3/2}) 6s, 5p^5 (^2 P°_{3/2}) 7p,
+823.163, 5p^5 (^2 P°_{3/2}) 6s, 5p^5 (^2 P°_{3/2}) 6p,
+881.941, 5p^5 (^2 P°_{3/2}) 6s, 5p^5 (^2 P°_{3/2}) 6p,
+916.265, 5p^5 (^2 P°_{3/2}) 6s, 5p^5 (^2 P°_{3/2}) 6p,
+
+
