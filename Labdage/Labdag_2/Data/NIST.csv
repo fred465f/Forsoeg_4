@@ -1,4 +1,4 @@
-Atom,Obs. wavelength (nm),NIST wavelength (nm),$E_i (cm^{-1})$,$E_k (cm^{-1})$,Electronic State (i),Electronic State (i)
+Atom,Obs. wavelength (nm),NIST wavelength (nm),$E_i (cm^{-1})$,$E_k (cm^{-1})$,Electronic State (i),Electronic State (k)
 Ar,358.262,360.652,93750.598,121470.238,3s^2 3p^5 (^2 P°_{3/2}) 4s,3s^2 3p^5 (^2 P°_{3/2}) 6p
 Ar,697.623,696.543,93143.760,107496.417,3s^2 3p^5 (^2 P°_{3/2}) 4s,3s^2 3p^5 (^2 P°_{1/2}) 4p
 Ar,764.453,763.511,93143.760,106237.552,3s^2 3p^5 (^2 P°_{3/2}) 4s,3s^2 3p^5 (^2 P°_{3/2}) 4p
